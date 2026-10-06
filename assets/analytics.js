@@ -3,7 +3,7 @@
  * 不傳送客戶案件、表單內容、姓名或其他個人識別資料。
  */
 (() => {
-  const measurementId = 'G-Y8YYXV5PB6';
+  const measurementId = 'G-3Y45E8F3L3';
   const productionHost = 'heritagewise.github.io';
 
   // 所有內頁使用同一組完整導覽；本機預覽與正式網站都能一致切換分頁。
